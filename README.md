@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Van</h1>
-<h3 align="center">A passionate fullstack developer from Montreal</h3>
+<h3 align="center">A passionate fullstack developer from Montreal, Quebec, Canada</h3>
 
 - 📫 How to reach me **huynhcasi@gmail.com**
 
