@@ -2,8 +2,8 @@
 <h3 align="center">A Junior Data Analyst</h3>
 <p>
 I am a junior data analyst successfully complete the Google Data Analytics course.
-My greatest strength are responsible, detailed oriented and thoughtful and I have a talent for crafting stories to help solve businesses problems.
-I am passionate about data, and building tools to help business grow, and to make the world a better place.
+My greatest strength are responsible, detailed oriented and thoughtful and I have a talent for crafting stories to help solve businesses problems.<br>
+I am passionate about data, and building tools to help business grow, and to make the world a better place.<br>
 I value Integrity, Responsibility, Kindness and Service to others.
 </p>
 
