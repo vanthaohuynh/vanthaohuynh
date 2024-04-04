@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Van</h1>
-<h3 align="center">A passionate fullstack developer from Montreal, Quebec, Canada</h3>
-
-- 📫 How to reach me **huynhcasi@gmail.com**
+<h3 align="center">A Junior Data Analyst</h3>
+<p>
+I am a junior data analyst successfully complete the Google Data Analytics course.
+My greatest strength are responsible, detailed oriented and thoughtful and I have a talent for crafting stories to help solve businesses problems.
+I am passionate about data, and building tools to help business grow, and to make the world a better place.
+I value Integrity, Responsibility, Kindness and Service to others.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
