@@ -11,13 +11,19 @@ I am a junior data analyst successfully complete the Google Data Analytics cours
 * 🧠  I'm learning Generative AI for Data Analysts Specialization
 * ⚡  I'm a singer in the choir at a Vietname Catholic Church
 
-### My Case Study Projects
+## My Projects
 
+### Case Study #1: Google Data Analytics Capstone Project: Cyclistic Bike Share Case Study using R
 <p align="left">
-<a href="https://www.kaggle.com/code/vanthaohuynh/cyclistic-bike-share-case-study-using-r?scriptVersionId=175110881" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/YSvpjMDj/Cyclistic-Case-Study.png"></a>
+<a href="https://www.kaggle.com/code/vanthaohuynh/cyclistic-bike-share-case-study-using-r?scriptVersionId=175110881" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/YSvpjMDj/Cyclistic-Case-Study.png" width="500" height="500"></a>
 </p>
 
-### Skills
+### Case Study #2: Google Data Analytics Capstone Project: Bellabeat Case Study - Excel, SQL & Tableau
+<p align="left">
+<a href="https://www.kaggle.com/code/vanthaohuynh/bellabeat-case-study-excel-bigquery-tableau" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/wM9RHMn6/Bellabeat-Case-Study.png" width="500" height="500"></a>
+</p>
+
+## Skills
 
 
 <p align="left">
@@ -25,6 +31,6 @@ I am a junior data analyst successfully complete the Google Data Analytics cours
 </p>
 
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.facebook.com/huynhtiphu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/vanthaohuynh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vanthaohuynh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
