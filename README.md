@@ -11,6 +11,12 @@ I am a junior data analyst successfully complete the Google Data Analytics cours
 * 🧠  I'm learning Generative AI for Data Analysts Specialization
 * ⚡  I'm a singer in the choir at a Vietname Catholic Church
 
+### My Case Study Projects
+
+<p align="left">
+<a href="https://www.kaggle.com/code/vanthaohuynh/cyclistic-bike-share-case-study-using-r?scriptVersionId=175110881" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/YSvpjMDj/Cyclistic-Case-Study.png"></a>
+</p>
+
 ### Skills
 
 
