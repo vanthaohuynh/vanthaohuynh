@@ -15,7 +15,7 @@ I’m a junior full-stack web developer with a knack for crafting beautiful, use
 
 ### Finance Demo App:
 <p align="left">
-<a href="https://finance-demo-app-f97d1e51b99f.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/Pqw88XTw/Finance-Logo.png" width="500" height="500"></a>
+<a href="https://finance-demo-app-f97d1e51b99f.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/cHd440HZ/Finance-Logo-300.png" width="300" height="300"></a>
 </p>
 
 ### Case Study #1: Google Data Analytics Capstone Project: Cyclistic Bike Share Case Study using R
