@@ -4,7 +4,7 @@ Hi 👋 My name is Van Thao Huynh
 Full Stack Web Developer
 ------------
 
-I’m a junior full-stack web developer with a knack for crafting beautiful, user-friendly web applications. I’ve got that Google Data Analytics Certificate under my belt, and I’m all about being responsible, detail-oriented, and thoughtful. My values? Integrity, kindness, and service to others. Oh, and I’m on a mission to build tools that help businesses thrive and make the world a better place!” 😊🌟
+I’m a junior full-stack web developer with a knack for crafting beautiful, user-friendly web applications. I’ve got that Google Data Analytics Certificate under my belt, and I’m all about being responsible, detail-oriented, and thoughtful. My values? Integrity, kindness, and service to others. Oh, and I’m on a mission to build tools that help businesses thrive and make the world a better place! 😊🌟
 
 * 🌍  I'm based in Montreal, Quebec, Canada
 * ✉️  You can contact me at [huynhcasi@gmail.com](mailto:huynhcasi@gmail.com)
