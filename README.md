@@ -1,10 +1,10 @@
 Hi 👋 My name is Van Thao Huynh
 ===============================
 
-Data Analyst
+Full Stack Web Developer
 ------------
 
-I am a junior data analyst successfully complete the Google Data Analytics course. My greatest strength are responsible, detailed oriented and thoughtful and I have a talent for crafting stories to help solve businesses problems. I am passionate about data, and building tools to help business grow, and to make the world a better place. I value Integrity, Responsibility, Kindness and Service to others.
+I’m a junior full-stack web developer with a knack for crafting beautiful, user-friendly web applications. I’ve got that Google Data Analytics Certificate under my belt, and I’m all about being responsible, detail-oriented, and thoughtful. My values? Integrity, kindness, and service to others. Oh, and I’m on a mission to build tools that help businesses thrive and make the world a better place!” 😊🌟
 
 * 🌍  I'm based in Montreal, Quebec, Canada
 * ✉️  You can contact me at [huynhcasi@gmail.com](mailto:huynhcasi@gmail.com)
@@ -12,6 +12,11 @@ I am a junior data analyst successfully complete the Google Data Analytics cours
 * ⚡  I'm a singer in the choir at a Vietname Catholic Church
 
 ## My Projects
+
+### Finance Demo App:
+<p align="left">
+<a href="https://finance-demo-app-f97d1e51b99f.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/Pqw88XTw/Finance-Logo.png" width="500" height="500"></a>
+</p>
 
 ### Case Study #1: Google Data Analytics Capstone Project: Cyclistic Bike Share Case Study using R
 <p align="left">
