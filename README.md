@@ -13,8 +13,6 @@ I’m a junior full-stack web developer with a knack for crafting beautiful, use
 
 ## My Projects
 
-### Finance Demo App:
-
 ### Case Study #1: Google Data Analytics Capstone Project: Cyclistic Bike Share Case Study using R
 <p align="left">
 <a href="https://www.kaggle.com/code/vanthaohuynh/cyclistic-bike-share-case-study-using-r?scriptVersionId=175110881" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/YSvpjMDj/Cyclistic-Case-Study.png" width="500" height="500"></a>
