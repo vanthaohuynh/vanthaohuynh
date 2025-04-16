@@ -14,8 +14,8 @@ I’m a certified Data Analyst and experienced Web Developer based in Montreal. 
 **Databases:** PostgreSQL, BigQuery  
 
 ### 📌 Highlight Projects
-- 🚲 [Cyclistic Bike-Share Case Study (R)](https://github.com/vanthaohuynh)
-- 💪 [Bellabeat Case Study (SQL, Excel, Tableau)](https://github.com/vanthaohuynh)
+- 🚲 [Cyclistic Bike-Share Case Study (R)](https://www.kaggle.com/code/vanthaohuynh/cyclistic-bike-share-case-study-using-r?scriptVersionId=175110881)
+- 💪 [Bellabeat Case Study (SQL, Excel, Tableau)](https://www.kaggle.com/code/vanthaohuynh/bellabeat-case-study-excel-sql-tableau?scriptVersionId=179769298)
 - 💼 Finance Tracking App (Demo link available on request)
 - 🛐 [Vietnamese Church Website – WordPress](https://www.conggiaomontreal.com/trang-chu/)
 - 💅 [Digital Marketing for Local Nail Salons](https://studio10and10.com/)
