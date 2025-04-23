@@ -18,7 +18,6 @@ I’m a certified Data Analyst and experienced Web Developer based in Montreal. 
 - 💪 [Bellabeat Case Study (SQL, Excel, Tableau)](https://www.kaggle.com/code/vanthaohuynh/bellabeat-case-study-excel-sql-tableau?scriptVersionId=179769298)
 - 💼 Finance Tracking App (Demo link available on request)
 - 🛐 [Vietnamese Church Website – WordPress](https://www.conggiaomontreal.com/trang-chu/)
-- 💅 [Digital Marketing for Local Nail Salons](https://studio10and10.com/)
 
 ### 🤝 Let’s Connect!
 📧 huynhcasi@gmail.com | [LinkedIn](https://linkedin.com/in/vanthaohuynh)
